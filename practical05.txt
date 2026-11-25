@@ -1,0 +1,14 @@
+
+Practical No 05
+Node.js Installation
+
+Install:
+1. nodejs.org -> Download LTS
+2. Setup Install
+3. Check: node -v
+
+Run File:
+1. Make app.js file:
+console.log("Hello");
+2. CMD madhe: node app.js
+3. Output: Hello
